@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included) | © 2026 by ThangDiep](https://github.com/diepnt18-sketch/math-util-se2041/actions/workflows/ci-script.yml/badge.svg)](https://github.com/diepnt18-sketch/math-util-se2041/actions/workflows/ci-script.yml)
 
 ## Project Description
 Math Util SE2041 is a Java project that provides mathematical utility methods.
