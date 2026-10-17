@@ -1,4 +1,4 @@
-package com.phucpd.mathutil.core;
+package com.thang.mathutil.core;
 
 public class MathUtil {
     public static long getFactorial(int n) {
@@ -6,7 +6,7 @@ public class MathUtil {
             throw new IllegalArgumentException("Invalid parameter. n must be between 0 and 20");
         }
         if(n == 0) return 1;
-        long result = 1;
+        long result = 10;
         for(int i = 1; i <= n; i++) {
             result*=i;
         }

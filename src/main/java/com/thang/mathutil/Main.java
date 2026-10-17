@@ -1,6 +1,6 @@
-package com.phucpd.mathutil;
+package com.thang.mathutil;
 
-import com.phucpd.mathutil.core.MathUtil;
+import com.thang.mathutil.core.MathUtil;
 
 public class Main {
     static void main() {
